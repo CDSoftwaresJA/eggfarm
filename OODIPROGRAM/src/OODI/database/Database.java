@@ -1,6 +1,6 @@
-package OODI;
+package OODI.database;
 import java.sql.*;
-
+import OOD.*;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 

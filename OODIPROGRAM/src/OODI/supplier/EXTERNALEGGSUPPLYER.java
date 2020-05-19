@@ -1,5 +1,5 @@
-package OODI;
-
+package OODI.supplier;
+import OOD.*;
 public class EXTERNALEGGSUPPLYER {
 	private String firstname,lastname,farmaddress,contactnumber ;
 	

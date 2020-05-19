@@ -1,7 +1,7 @@
-package OODI;
+package OODI.generalUI;
 
 import java.awt.EventQueue;
-
+import OOD.*;
 import javax.swing.JFrame;
 import javax.swing.JTextArea;
 

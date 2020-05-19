@@ -1,5 +1,5 @@
-package OODI;
-
+package OODI.supply;
+import OOD.*;
 public class EXTERNALEGGSUPPLY {
 	
 	public EXTERNALEGGSUPPLY(String eggscollected,String collecteddate){

@@ -1,5 +1,5 @@
-package OODI;
-
+package OODI.view;
+import OOD.*;
 public class InternalEggsSupply {
 	private String Fullname;
 	private String WorkStation;

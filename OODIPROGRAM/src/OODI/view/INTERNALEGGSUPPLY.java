@@ -1,7 +1,7 @@
-package OODI;
+package OODI.view;
 
 import java.awt.EventQueue;
-
+import OOD.*;
 import javax.swing.JFrame;
 
 public class INTERNALEGGSUPPLY {

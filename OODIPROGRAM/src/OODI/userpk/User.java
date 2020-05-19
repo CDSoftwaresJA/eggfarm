@@ -1,5 +1,5 @@
-package OODI;
-
+package OODI.userpk;
+import OOD.*;
 public class User {
 	
 	

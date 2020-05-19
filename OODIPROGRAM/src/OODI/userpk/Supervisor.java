@@ -1,5 +1,5 @@
-package OODI;
-
+package OODI.userpk;
+import OOD.*;
 public class Supervisor extends User{
 	protected String employeeID;
 	private static int ID=99;
